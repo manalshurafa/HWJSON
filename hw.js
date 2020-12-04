@@ -20,7 +20,8 @@ function PpuAverage(){
 function PpuSum(){
     for(let i=0;i<Hw.ppu;i++){
         var sum = sum + Hw[i].ppu ;
-        return sum ; }}
+        return sum ; }
+    }
 
   
 
